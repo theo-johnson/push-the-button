@@ -1,0 +1,7 @@
+[
+  { "human": "Draw a piece of furniture you'd find in a living room.", "alien": "Draw a piece of furniture you'd find in a bedroom." },
+  { "human": "Draw a food that's served hot.", "alien": "Draw a food that's spicy." },
+  { "human": "Draw a job that requires wearing a uniform.", "alien": "Draw a job that requires using special tools." },
+  { "human": "Draw something silent.", "alien": "Draw something loud." },
+  { "human": "Draw an animal with feathers.", "alien": "Draw an animal with scales." }
+]
